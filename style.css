@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    font-weight: 800 !important;
+}
+
+.header i{
+    color: blue;
+    font-size: 3.5rem;
+}
+
+.form-group{
+    color: hsl(130, 100%, 28%);
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+::-webkit-input-placeholder{
+    color: hsl(135, 97%, 30%)!important;
+}
